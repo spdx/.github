@@ -62,3 +62,4 @@ These repositories are related to the SPDX Community activities
    meetings including schedule, links to join, minutes, etc.
  * [outreach](https://github.com/spdx/outreach) - Outreach resources for SPDX
    (e.g. Conference talks, presentations, etc.)
+ * [governance](https://github.com/spdx/governance) - Governance practices for the SPDX Working Group.
