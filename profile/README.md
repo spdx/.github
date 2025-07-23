@@ -25,12 +25,20 @@ if you want to produce or consumer SPDX documents.
    dealing with SPDX documents
  * [tools-golang](https://github.com/spdx/tools-golang) - Go library for
    dealing with SPDX documents
- * [tools-java](https://github.com/spdx/tools-java) - Java library for dealing
-   with SPDX documents
+ * [tools-java](https://github.com/spdx/tools-java) - Java command line utility for managing
+   and converting SPDX documents
+ * [spdx-java-library](https://github.com/spdx/spdx-java-library) - Java library supporting
+   reading, writing, converting, and validating SPDX documents
+ * spdx-java-* - Support libraries used by the spdx-java-library.
+   Descriptions of these repos can be found in the
+   [spdx-java-library API documentation](https://github.com/spdx/spdx-java-library?tab=readme-ov-file#api-documentation)
  * [spdx-python-model](https://github.com/spdx/spdx-python-model) - Low level
    Python library for reading and writing SPDX documents
  * [spdx-go-model](https://github.com/spdx/spdx-go-model) - Low level Go
    library for reading and writing SPDX documents
+ * [tools-ts](https://github.com/spdx/tools-ts) - TypeScript / JavaScript library for writing SPDX documents
+ * [spdx-online-tools](https://github.com/spdx/spdx-online-tools) - Source for the [tools.spdx.org](https://tools.spdx.org/app/)
+   web application
 
 ## SPDX Licenses
 
@@ -40,6 +48,7 @@ These repositories are related to the SPDX License List
    Source for the SPDX License List
  * [license-list-data](https://github.com/spdx/license-list-data) - The
    generated content (e.g. Web site, JSON, etc) from the License List XML
+ * [licenseListPublisher](https://github.com/spdx/LicenseListPublisher) - Source for the tool that generates the license list data
 
 ## SPDX 3 SBoM Model
 
