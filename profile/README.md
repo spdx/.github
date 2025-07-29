@@ -64,9 +64,10 @@ These repositories define the SPDX 3 SBoM Standard
  * [spdx-3-model](https://github.com/spdx/spdx-3-model) - This is the main SPDX
    3 model files. If you would like to modify or extend the SPDX 3
    specification, start here.
- * [spdx-spec](https://github.com/spdx/spdx-spec) - The canonical SPDX
-   specification, such as website files, RDF file, etc. This has both static
-   content as well as content generated from the SPDX 3 model Markdown files.
+ * [spdx-spec](https://github.com/spdx/spdx-spec) - Source for the canonical SPDX
+   specification at [spdx.github.io/spdx-spec/](https://spdx.github.io/spdx-spec/).
+   This contains static content like chapters and annexes.
+   For the model files, see spdx-3-model.
  * [spec-parser](https://github.com/spdx/spec-parser) - This is the tool that
    translates the SPDX 3 model files from Markdown to various outputs
 
