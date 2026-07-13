@@ -20,7 +20,7 @@ to use SPDX and example SPDX files.
 
 These repositories contain SPDX related tools, language bindings,
 and dependency manager plugins, which are useful
-if you want to produce or consumer SPDX documents.
+if you want to produce or consume SPDX documents.
 
 ### Online tools
 
