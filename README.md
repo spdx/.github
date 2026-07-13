@@ -1,3 +1,4 @@
-# SPDX github Organization
+# SPDX GitHub Organization
 
-This repo configures the SPDX Github Organization https://github.com/spdx
+This repo configures the SPDX GitHub Organization
+at <https://github.com/spdx>
